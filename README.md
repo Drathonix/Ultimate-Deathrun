@@ -42,11 +42,13 @@ The aurora interior will remain radioactive the entire game, being more severe c
 You will be given the radiation suit upon being warned about the drive core explosion, allowing you to prepare.
 The effects of sickness have not been determined yet as I need to investigate how the radiation mechanic works currently.
 
-Creatures will die from radiation sickness faster if they are smaller.
+Creatures will die from radiation sickness faster if they are smaller and slower if they are larger (this is to ensure that hostile creatures near the aurora are not killed).
+Only bleeders within the aurora will be immune to radiation to keep the biome threatening.
 
 Debuffs:
 * Bleeding: causes hostile creatures to detect you at a larger range and prevents regeneration. Inflicted by moderate bites at minimum.
 * Infected Bite: Temporarily increases the Kharaa infection stage, does not increase to stage 9.
+* Radioactive Bite: Increases radiation sickness. Inflicted only by creatures on or inside the aurora (cave crawlers and bleeders)
 * Punctured Tanks: Drastically reduces oxygen efficiency, only negated by repair kits. Severe bites will always inflict this debuff and moderate bites will only inflict when attack from behind.
 * Disorientation: Shuffles the function of movement controls. Inflicted by warper teleportation attacks.
 * Dazed: Temporarily prevents movement. Inflicted by vehicle collisions, crashfish explosions, fall damage, and ramming attacks from ghost leviathans.
