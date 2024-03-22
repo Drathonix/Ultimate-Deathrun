@@ -30,7 +30,7 @@ This is probably the most overlooked aspect of the game. The player is infected 
 8. 16 hours or after reaching the ILZ: More suceptable to all biological debuffs. 5% more damage taken.
 9. 24 hours: Death.
 
-In addition, being bit by infected hostiles will permanently speed up the infection process (BY VERY LARGE AMOUNTS).
+In addition, being bit by visibly infected hostiles will permanently speed up the infection process (BY VERY LARGE AMOUNTS).
 These effects are nullified once the infection has been cured.
 
 Radiation Sickness:
