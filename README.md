@@ -20,7 +20,7 @@ Creature Changes:
 
 Kharaa Mechanic:
 This is probably the most overlooked aspect of the game. The player is infected with a rapidly progressing bacterial illness. They should feel the effects. Stages:
-1. Nothing, until you exit the early game biomes: Safe shallows, Kelp Forests, Grassy Plateaus, and Glowshroom Caves.
+1. Nothing, until you exit the Safe shallows and Kelp Forests.
 2. The beginning: minor increase of health regeneration delay.
 3. 3 Hours since beginning: slower swim speed. max health begins decreases by 1.
 4. 6 hours or after reaching 500m (may change): max health decreased by 2. Health regeneration speed reduced. 1% more damage taken.
